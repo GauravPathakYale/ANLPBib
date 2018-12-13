@@ -1,6 +1,7 @@
 # Annotated Bibliography for Natural Language Processing in Finance
 
 Gaurav Pathak
+gaurav.pathak@yale.edu
 
 ## General Background Information
 These articles cover some basic terminology when using natural language processing to try to generate returns by predicting the movement of the stock market.
